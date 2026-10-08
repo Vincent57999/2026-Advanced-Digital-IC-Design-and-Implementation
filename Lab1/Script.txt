@@ -1,0 +1,3 @@
+.\.venv\Scripts\python.exe .\lab1_big\test.py
+
+.\.venv\Scripts\python.exe .\lab1_small\test.py
